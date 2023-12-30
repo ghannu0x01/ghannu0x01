@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @ghannu0x01
-- 👀 I’m interested in security researcher 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Microsoft
-- 📫 How to reach me @ghannu0x01
+- 👋 Hi, I’m @ghannu0x01 [Ghanashyam Ghimire]
+- 👀 I’m interested in Bug Bounty
+- 🌱 I’m currently working on HackerOne [H1]
+- 💞️ I’m looking to collaborate on BugBounty & Recon Project
+- 📫 How to reach me
+- https://www.facebook.com/ghannu0x01
+- https://hackerone.com/ghannu0x01
+- https://np.linkedin.com/in/mrghannu
 
 <!---
 ghannu0x01/ghannu0x01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
