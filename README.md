@@ -6,6 +6,7 @@
 - https://www.facebook.com/ghannu0x01
 - https://hackerone.com/ghannu0x01
 - https://np.linkedin.com/in/mrghannu
+- https://x.com/ghannu0x01
 
 <!---
 ghannu0x01/ghannu0x01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
