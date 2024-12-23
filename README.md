@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on BugBounty & Recon Project
 - 📫 How to reach me
 - https://www.facebook.com/ghannu0x01
-- https://hackerone.com/ghannu0x01
 - https://np.linkedin.com/in/mrghannu
 - https://x.com/ghannu0x01
 
